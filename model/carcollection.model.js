@@ -29,6 +29,9 @@ const carSechma = new Sechma({
     },
     desc: {
         type : String
+    },
+    phone: {
+        type : Number
     }
 
 })
